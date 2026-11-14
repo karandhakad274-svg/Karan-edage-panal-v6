@@ -11,7 +11,7 @@
     </queries>
 
     <application
-        android:label="Karan Edge Panel"
+        android:label="Karan Edge Panel"android:icon="@drawable/ic_launcher"
         android:theme="@android:style/Theme.Material.NoActionBar">
         <activity
             android:name=".MainActivity"
